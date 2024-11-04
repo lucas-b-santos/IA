@@ -1,0 +1,3 @@
+- Criar o venv
+- Executar as células do notebook caso queira treinar
+- Executar "streamlit run app.py" para a aplicação
